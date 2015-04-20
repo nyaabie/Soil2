@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1"/>
+
+        <Button
+            android:layout_weight="1" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="fill">
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1"
+            android:background="#FB0C06"/>
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_weight="1" />
+    </TableRow>
+
+</TableLayout>
