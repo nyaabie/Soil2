@@ -1,12 +1,15 @@
 /**
  * Created by nurhabibah on 18/04/2015.
  */
+
+import android.app.Fragment;
 import android.os.Bundle;
-import android.os.Bundle*
-import android.app.ActionBar;
-import android.app.FragmentTransaction;
-import android.support.v4.app.FragmentActivity;
-import android.support.v4.view.ViewPager;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.TextView;
+
+import com.example.nurhabibah.soil2.R;
 
 // In this case, the fragment displays simple text based on the page
 public class PageFragment extends Fragment {
